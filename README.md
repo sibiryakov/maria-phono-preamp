@@ -1,5 +1,4 @@
-# maria-phono-preamp
-Moving magnet phono preamp Maria
+# Moving magnet phono preamp Maria
 
 * Точность соответствия RIAA - 0.3 dB в среднем, 0.11 в интервале 125-8000 Гц,
 * Поддерживаются только Moving Magnet (MM) картриджи,
